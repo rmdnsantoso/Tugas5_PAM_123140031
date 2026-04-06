@@ -1,8 +1,12 @@
-# Tugas 5 Pemrograman Aplikasi Mobile = Notes App
+# Tugas 5 Pemrograman Aplikasi Mobile - Notes App
 
-Muhammad Romadhon Santoso
-123140031
+Nama : Muhammad Romadhon Santoso
+
+NIM : 123140031
+
 Pemrograman Aplikasi Mobile RB
+
+
 
 Aplikasi ini merupakan implementasi navigasi multi-layar menggunakan Compose Multiplatform. Fokus utama dari proyek ini adalah penerapan struktur navigasi yang efisien dan user-friendly untuk mengelola catatan pribadi dengan antarmuka yang modern.
 
