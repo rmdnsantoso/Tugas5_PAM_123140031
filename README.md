@@ -16,11 +16,11 @@ Aplikasi ini mengintegrasikan sistem Bottom Navigation yang menghubungkan tiga m
 
 Berikut adalah tampilan antarmuka aplikasi saat dijalankan:
 
-![Screenshot Aplikasi 1](Screenhsot 1.png)
+![Screenshot Aplikasi 1](Screenshot%201.png)
 
-![Screenshot Aplikasi 2](Screenshot 2.png)
+![Screenshot Aplikasi 2](Screenshot%202.png)
 
-![Screenshot Aplikasi 3](Screenshot 3.png)
+![Screenshot Aplikasi 3](Screenshot%203.png)
 
 ### Demo Video
 Silakan klik tautan di bawah ini untuk melihat demonstrasi fungsionalitas navigasi aplikasi:
